@@ -1,0 +1,51 @@
+411001	Pune H.O.
+411002	Pune City H.O.
+411003	Khadaki
+411004	Deccan Gymkhana
+411005	Shivajinagar H.O.
+411006	Yerawada
+411007	Ganeshkhind
+411008	N.C.L.
+411009	Parvati
+411010	S.S.C. Board
+411011	Kasba Peth
+411012	Dapodi
+411013	Hadapsar
+411014	Dunkirk Line
+411015	Dighi Camp
+411016	Model Colony
+411017	Pimpri Colony
+411018	Pimpri Penicillin Factory
+411019	Chinchwad (East)
+411020	Range Hill
+411021	Armament
+411022	S.R.P.F.
+411023	N.D.A.
+411024	Khadakwasala
+411025	I.A.T. Pune
+411026	Bhosari (Indus.estate)	.
+411027	Aundh
+411028	Hadapsar
+411029	Kothrud
+411030	S.P. College
+411031	C.M.E.
+411032	I.A.F. station
+411033	Chinchwad Gaon
+411034	Kasarwadi
+411035	Akurdi
+411036	Mundhwa
+411037	Market Yard / Gultekadi
+411038	Ex. Service man colony
+411039	Bhosari Gaon
+411040	Wanawadi
+411041	Wadgaon Budruk
+411042	Swargate
+411043	Dhankawadi
+411044	Pimpri Chinchwad
+411045	Pashan
+411046	Katraj
+411047	Lohgaon
+411048	N.I.B.M.
+411049	Anandnagar
+411050	Navasahyadri
+411051	Shivaji Hsg Society
